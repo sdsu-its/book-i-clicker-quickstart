@@ -5,7 +5,7 @@
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
 * [Sessions](sessions.md)
-   * Evaluating A Sesssion
+   * [Evaluating A Sesssion](evaluate_sesssion.md)
 * [Running A Session](run_session.md)
    * Sessions
 
