@@ -6,8 +6,7 @@ We recommend you start a new session, then start your PowerPoint Presentation, s
 ![](images/start_session.png)
 
 If a frequency error appears, you will need to change the frequency of your base and remote. Take a look in the [Set Up](setup.md) instructions on how to change the frequency of your base and remotes.
-![](images/freq_conflict.png)
-
+![](images/Frequency Conflict.png)
 
 Once you start your session, the Session Toolbar will appear. The tool bar provides you with a summary of your poll and allows you to start and stop the poll if you do not have, or do not want to use, your Instructor Remote.
 
@@ -28,7 +27,7 @@ You can display the results from your poll in class after you close the poll. Cl
 
 You can change the question by clicking the Question Menu, or you can use the forward and back arrows in the top left corner. You can also compare results, simply click the compare button and another Results Chart will appear.
 
-![](images/View_Results.png)
+![](images/View Results.png)
 
 Pressing `B` will close all the open Results Charts.
 
@@ -38,5 +37,5 @@ While you have a Results Chart open, you can press the `Answer` button, or press
 
 The Selected Correct Answer will turn green and when you end the session, the student scores will reflect the correct answer selected in class.
 
-![](images/Graded_View.png)
+![](images/Graded View.png)
 
