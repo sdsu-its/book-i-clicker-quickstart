@@ -4,7 +4,7 @@
 * [Introduction](intro.md)
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
-* Sessions
+* [Sessions](sessions.md)
 * [Running A Session](run_session.md)
    * Sessions
 
