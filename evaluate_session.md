@@ -20,4 +20,4 @@ Open the session summary window by clicking on the `Summary` button in the top-l
 
 ![](images/Session Summary.png)
 
-Change the session name to something recognizable as it will be the name of the column in Blackboard when you upload your scores. For Example, the Date or the topic of the quiz or in-class activity.
+Change the session name to something recognizable as it will be the name of the column in Blackboard when you upload your scores. For Example, the Date or the topic of the quiz or in-class activity. This is also where you can delete sessions if desired.
