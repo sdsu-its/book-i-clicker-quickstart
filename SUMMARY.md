@@ -7,5 +7,5 @@
 * [Sessions](sessions.md)
    * [Evaluating A Session](evaluate_session.md)
    * [Running A Session](run_session.md)
-   * Uploading Scores
+   * [Uploading Scores](upload_scores.md)
 
