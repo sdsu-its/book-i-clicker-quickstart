@@ -1,14 +1,14 @@
-# i&gt;Clicker Quick Start {#i-clicker-quick-start}
+# i>Clicker Quick Start {#i-clicker-quick-start}
 
-i&gt;clicker 2 - Faculty Quick Start Guide
+i>clicker 2 - Faculty Quick Start Guide
 
 Software
 
-The i&gt;clicker software is packaged in a single folder which includes the i&gt;clicker app as well as the Blackboard integration for use at SDSU. You can download the latest version of i&gt;clicker for use BlackBoard from the ITS website, [http://its.sdsu.edu/tech/iclicker/download](http://its.sdsu.edu/tech/iclicker/download). Computer specific directions for installing the i&gt;clicker software can be found on the Download Page, listed above.
+The i>clicker software is packaged in a single folder which includes the i>clicker app as well as the Blackboard integration for use at SDSU. You can download the latest version of i>clicker for use BlackBoard from the ITS website, [http://its.sdsu.edu/tech/iclicker/download](http://its.sdsu.edu/tech/iclicker/download). Computer specific directions for installing the i>clicker software can be found on the Download Page, listed above.
 
 Instructor Kit
 
-Pick up your i&gt;clicker kit at the ITS Faculty Instructional Technology Center (FIT Center) in AH-1109\. Call 4-6348 to set up your appointment for training and to pick up your Instructor Kit.
+Pick up your i>clicker kit at the ITS Faculty Instructional Technology Center (FIT Center) in AH-1109\. Call 4-6348 to set up your appointment for training and to pick up your Instructor Kit.
 
 Your Instructor Kit will contain:
 
@@ -26,7 +26,7 @@ Flash Drive
 
 Setting up your Course
 
-Open the i&gt;Clicker app from inside the folder that you previously unzipped.
+Open the i>Clicker app from inside the folder that you previously unzipped.
 
 Create a new course by clicking the “+Create” button.
 
@@ -52,21 +52,21 @@ In most cases, you will be using frequency AA, see Appendix A in the Userguide f
 
 Setting Up Your Gradebook
 
-i&gt;clicker integrates with Blackboard, which makes it easy to download your roster and upload grades.
+i>clicker integrates with Blackboard, which makes it easy to download your roster and upload grades.
 
 Click on “Select Course” to start the connection process.
 
-In order to integrate with Blackboard, you will need to make your course available and configure i&gt;clicker to talk with your Blackboard Course.
+In order to integrate with Blackboard, you will need to make your course available and configure i>clicker to talk with your Blackboard Course.
 
-In your Blackboard course, go to the Course Tools in the Control Panel. Click on “i&gt;clicker Instructor Tools”.
+In your Blackboard course, go to the Course Tools in the Control Panel. Click on “i>clicker Instructor Tools”.
 
 You will need to obtain an SSO key, which is listed under “SSO Security Key” once you access the Instructor Tools for
 
-i&gt;clicker.
+i>clicker.
 
-Copy your SSO Key, you will need it when you try to login inside the i&gt;clicker app.
+Copy your SSO Key, you will need it when you try to login inside the i>clicker app.
 
-Back in the i&gt;clicker app, go to the “Gradebook” tab and click on the “Select Course” button. A login window will appear, use your Blackboard Username (your RedID) and paste in your SSO key that you got from Blackboard.
+Back in the i>clicker app, go to the “Gradebook” tab and click on the “Select Course” button. A login window will appear, use your Blackboard Username (your RedID) and paste in your SSO key that you got from Blackboard.
 
 ![](image/BB_Connect.png)![](image/i_clicker_Tools.png)![](image/LMS_Login.png)![](image/Course_Tools_Exploded.png)
 
@@ -74,13 +74,13 @@ Setting Up Your Gradebook Continued...
 
 Once you login, all of your available courses will be listed. Choose the course that corresponds with the course name that you chose earlier.
 
-Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the i&gt;clicker gradebook.
+Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the i>clicker gradebook.
 
 Toolbar
 
 While you are polling your student,
 
-i&gt;clicker will display a small Toolbar on your screen, which displays pertinent information for both you and your students.
+i>clicker will display a small Toolbar on your screen, which displays pertinent information for both you and your students.
 
 The most important option is the Timer, by default, polls only close when you close them. Many users choose to have a “Count Down” timer which closes the poll automatically when the time elapses.
 
@@ -114,7 +114,7 @@ Running a Session
 
 Once you have connected your
 
-i&gt;clicker base to your computer, the “Start New Session” button will become active.
+i>clicker base to your computer, the “Start New Session” button will become active.
 
 Click the “Start New Session” button to start a new Polling Session.
 
@@ -160,7 +160,7 @@ Once you are ready to evaluate your session, go back into your gradebook and a n
 
 Click the “View” button at the top of the column start processing your session.
 
-i&gt;clicker takes a screenshot of your screen everytime you start a poll, this makes scoring easy!
+i>clicker takes a screenshot of your screen everytime you start a poll, this makes scoring easy!
 
 Check the checkbox next to the correct answer for each question; the Correct Answer will turn green, and the wrong answers will turn red. You will need to do this for every question.
 
