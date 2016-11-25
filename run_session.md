@@ -15,7 +15,9 @@ Once you start your session, the timer will begin to count. It will count up or 
 
 Click the Stop button (the red square) to stop your poll, or press the `A` button on your remote.
 
-![](images/Start_Session_Toolbar.png)![](images/Stop_Session_Toolbar.png)![](images/Stop_Session_Toolbar_with_Responses.png)
+![](images/Start_Session_Toolbar.png)
+![](images/Stop_Session_Toolbar.png)
+![](images/Stop_Session_Toolbar_with_Responses.png)
 
 
 ## Showing Responses in Class
