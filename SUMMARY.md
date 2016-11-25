@@ -1,7 +1,7 @@
 # Summary
 
 * [i>Clicker Quick Start](README.md)
-* [Introduction](intro.md)
+* [Introduction](README.md)
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
 * [Sessions](sessions.md)
