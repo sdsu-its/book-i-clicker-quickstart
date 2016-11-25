@@ -2,5 +2,5 @@
 
 * [i>Clicker Quick Start](README.md)
 * [Introduction](intro.md)
-* Set Up
+* [Set Up](setup.md)
 
