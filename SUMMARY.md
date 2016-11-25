@@ -4,4 +4,5 @@
 * [Introduction](intro.md)
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
+* Running A Session
 
