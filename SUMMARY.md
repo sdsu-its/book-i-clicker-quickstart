@@ -5,4 +5,5 @@
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
 * [Running A Session](run_session.md)
+   * Sessions
 
