@@ -1,5 +1,5 @@
 # Summary
 
 * [i>Clicker Quick Start](README.md)
-* Introduction
+* [Introduction](intro.md)
 
