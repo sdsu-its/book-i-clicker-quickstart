@@ -12,15 +12,15 @@ Pick up your i&gt;clicker kit at the ITS Faculty Instructional Technology Center
 
 Your Instructor Kit will contain:
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/baseOn.jpg)
+![](image/baseOn.jpg)
 
 Base Reciver
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/iclicker-base-2.png)
+![](image/iclicker-base-2.png)
 
 Instructor Device
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/clicker_USB.jpg)
+![](image/clicker_USB.jpg)
 
 Flash Drive
 
@@ -30,13 +30,13 @@ Open the i&gt;Clicker app from inside the folder that you previously unzipped.
 
 Create a new course by clicking the “+Create” button.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Start_Page_-_Initial.png)![](data:image/png;base64,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)![](Quick_Start_Guide_for_i_clicker-web-resources/image/New_Course.png)
+![](image/Start_Page_-_Initial.png)![](data:image/png;base64,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)![](image/New_Course.png)
 
 Highlight the name of your newly selected course.
 
 Click “Settings” to configure your course and integrate it with BlackBoard.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Start_Page_-_After_Course_Create.png)![](data:image/png;base64,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)![](Quick_Start_Guide_for_i_clicker-web-resources/image/General_Settings.png)
+![](image/Start_Page_-_After_Course_Create.png)![](data:image/png;base64,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)![](image/General_Settings.png)
 
 General Settings
 
@@ -48,7 +48,7 @@ Enter this number with care as you have the ability to start and stop polls, dis
 
 In most cases, you will be using frequency AA, see Appendix A in the Userguide for how to change the frequency on your base and remotes. If you get a frequency conflict message, see [http://bit.ly/1IYUH6x](http://bit.ly/1IYUH6x).
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/General_Settings1.png)
+![](image/General_Settings1.png)
 
 Setting Up Your Gradebook
 
@@ -68,7 +68,7 @@ Copy your SSO Key, you will need it when you try to login inside the i&gt;clicke
 
 Back in the i&gt;clicker app, go to the “Gradebook” tab and click on the “Select Course” button. A login window will appear, use your Blackboard Username (your RedID) and paste in your SSO key that you got from Blackboard.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/BB_Connect.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/i_clicker_Tools.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/LMS_Login.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Course_Tools_Exploded.png)
+![](image/BB_Connect.png)![](image/i_clicker_Tools.png)![](image/LMS_Login.png)![](image/Course_Tools_Exploded.png)
 
 Setting Up Your Gradebook Continued...
 
@@ -94,7 +94,7 @@ Participation Points and Performance points can be uploaded to Blackboard as sep
 
 Many instructors are moving away from “Participation Point”, favoring “Points for responding” to keep students Engaged.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Courses.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/After_BB_Connect.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Poll_Duration.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Points.png)
+![](image/Courses.png)![](image/After_BB_Connect.png)![](image/Poll_Duration.png)![](image/Points.png)
 
 Gradebook
 
@@ -122,7 +122,7 @@ We recommend you start a new session, then start your PowerPoint Presentation, s
 
 If a frequency error appears, you will need to change the frequency of your base and remote. See Appendix A in the User Guide on how to change the frequency of your base and remote.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Start_Page_-_After_Course_Create1.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Roster.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Home_with_Base.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Frequency_Conflict.png)
+![](image/Start_Page_-_After_Course_Create1.png)![](image/Roster.png)![](image/Home_with_Base.png)![](image/Frequency_Conflict.png)
 
 Running a Session Continued...
 
@@ -132,7 +132,7 @@ Once you start your session, the timer will begin to count. It will count up or 
 
 Click the Stop button (the red square) to stop your poll, or press the “A” button on your remote.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Start_Session_Toolbar.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Stop_Session_Toolbar.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Stop_Session_Toolbar_with_Responses.png)
+![](image/Start_Session_Toolbar.png)![](image/Stop_Session_Toolbar.png)![](image/Stop_Session_Toolbar_with_Responses.png)
 
 Showing Responses in Class
 
@@ -152,7 +152,7 @@ While you have a Results Chart open, you can press the “Answer” button, or p
 
 The Selected Correct Answer will turn green and when you end the session, the student scores will reflect the correct answer selected in class.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Start_Session_Toolbar.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/View_Results.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Graded_View.png)
+![](image/Start_Session_Toolbar.png)![](image/View_Results.png)![](image/Graded_View.png)
 
 Evaluating Sessions
 
@@ -180,4 +180,4 @@ Choose the session that you want to upload, and click “Next”.
 
 Finally you can configure how you want your scores uploaded. Many students prefer that each session be uploaded as a separate entry as it gives them greater insight into their grades.
 
-![](Quick_Start_Guide_for_i_clicker-web-resources/image/Roster_before_Grading.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Select_Correct_Answer.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Session_Summary.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Roster_after_Session.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Select_Session_to_Upload.png)![](Quick_Start_Guide_for_i_clicker-web-resources/image/Upload.png)
+![](image/Roster_before_Grading.png)![](image/Select_Correct_Answer.png)![](image/Session_Summary.png)![](image/Roster_after_Session.png)![](image/Select_Session_to_Upload.png)![](image/Upload.png)
