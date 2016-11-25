@@ -2,7 +2,7 @@
 
 ## Software
 
-The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at SDSU. The latest version of the software can be obtained by visiting the FIT Center, which is located in Adams Humanities, Room 1109.
+The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, which is located in Adams Humanities, Room 1109.
 
 
 ## Instructor Kit
