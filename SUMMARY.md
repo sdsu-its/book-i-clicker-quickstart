@@ -1,6 +1,5 @@
 # Summary
 
-* [i>Clicker Quick Start](README.md)
 * [Introduction](README.md)
 * [Set Up](setup.md)
 * [Gradebook](gradebook.md)
