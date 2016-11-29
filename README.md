@@ -1,24 +1,22 @@
-# i>Clicker Quick Start Guide
-i>Clicker is an in-class response system that can be used to quickly and easily poll your students during class. This can be used to be comprehension quizzes, before-and-after comparisons, and more.
+# i>clicker Quick Start Guide
 
-The i>Clicker system is composed of a base receiver which is connected to a computer (or in-class podium), an Instructor Remote (optional), and a group of student remotes. Each student should have their own remote, as that is how the software associates their responses with their RedID.
+i>clicker is an in-class response system used to quickly and easily poll or quiz students during class. i>clicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, and more.
+
+The i>clicker Instructor kit consists of a base receiver, a blue Instructor remote, and i>clicker software. Each student should have their own white remote or, if enabled , a mobile device which is used to select responses during a polling session.
 
 ## Software
 
-The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, which is located in Adams Humanities, Room 1109.
+The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, which is located in Adams Humanities, Room 1109. We also provide appropriate language for your course syllabus and instructions for students.
 
 
 ## Instructor Kit
 
-Instructor kits are available free of charge for instructors at San Diego State University. To pick up your i>clicker kit at the ITS Faculty Instructional Technology Center (FIT Center), please call 619-594-6348, or [scheduled online](https://fitcenter.acuityscheduling.com/schedule.php?appointmentType=1226211) to set up your appointment for training and to pick up your Instructor Kit.
-
-
+Instructor kits are available free of charge for instructors at San Diego State University. To pick up your i>clicker kit at the ITS Faculty Instructional Technology Center (FIT Center), please call 619-594-6348, or [scheduled online](https://fitcenter.acuityscheduling.com/schedule.php?appointmentType=1226211) to set up your appointment for training and to pick up your Instructor Kit. Training is hands-on and takes about 45 minutes.
 
 Your Instructor Kit will contain:
 
-| ![](images/baseOn.jpg) | ![](images/iclicker-base-2.png) | ![](images/clicker_USB.jpg) |
-|: -- |: -- |: -- |
-| Base Receiver | Instructor Remote | Flash Drive |
+ ![](images/baseOn.jpg)  ![](images/iclicker-base-2.png)  ![](images/clicker_USB.jpg) 
+                      Base Receiver                     Instructor Remote   Flash Drive  
 
 
 ## License
