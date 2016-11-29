@@ -15,8 +15,13 @@ Instructor kits are available free of charge for instructors at San Diego State 
 
 Your Instructor Kit will contain:
 
- ![](images/baseOn.jpg)  ![](images/iclicker-base-2.png)  ![](images/clicker_USB.jpg) 
-                      Base Receiver                     Instructor Remote   Flash Drive  
+| ![](images/baseOn.jpg) | ![](images/iclicker-base-2.png) | ![](images/clicker_USB.jpg)|
+| -- | -- | -- |
+| Base Receiver | Instructor Remote | Flash Drive |
+
+
+  
+                      
 
 
 ## License
