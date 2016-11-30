@@ -7,5 +7,5 @@
    * [Running A Session](run_session.md)
    * [Evaluating A Session](evaluate_session.md)
    * [Uploading Scores](upload_scores.md)
-* Troubleshooting Tips
+* [Troubleshooting Tips](troubleshooting_tips.md)
 
