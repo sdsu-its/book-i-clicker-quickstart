@@ -1,28 +1,33 @@
-# Set Up
+# Initial Set Up
 
-## Setting up your Course
+## Create your Course
 
 Open the i>Clicker app from the i>clicker folder on your flash drive.
 
-Create a new course by clicking the `+Create` button.
+Create a new course by clicking the '+Create' button.
+
+Type in a simple name that identifies the course. You alone will see this. Press "Create."
 
 ![](images/create_course.png)
 
+## Settings
+
 Highlight the name of your newly selected course.
 
-Click `Settings` to configure your course and integrate it with Blackboard.
+Click "Settings" to configure your course and integrate it with Blackboard.
 
 ![](images/access_settings.png)
+## General Tab
 
-## General Settings
+In the General Tab of the settings window, enter your **Instructor Remote ID**, which is found on the back of your blue remote.
 
-Starting off in the General Tab of the settings window.
+Enter this number with care as you have the ability to start and stop polls, display results, and set the correct answer from your Instructor Remote!
 
-Enter your Instructor Remote ID, which you can find on the back of your blue remote.
+In most cases, you will be using **Frequency Code** AA. 
 
-Enter this number with care as you have the ability to start and stop polls, display results, and set the correct answer from your Instructor Remote.
+You should turn off the frequency alert message as it will display every time you open the software. (NEED NEW PICTURE OF THE GENERAL SETTINGS WINDOW) Click the drop down menu under "**Show frequency alert message:**" and choose "Not at all."
 
-In most cases, you will be using frequency AA, however if you are altered to a frequency conflict, go ahead and change this to a non-used frequency. The change the frequency on both your instructor remote, as well as the student remotes. To do this, push and hold the orange power button till a two letter code flashes on the remote. At that point, enter the new frequency code. It is important to change the frequency and save the settings in the software, before changing the remote frequencies.
+On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
 
 ![](images/General Settings.png)
 
