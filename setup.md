@@ -17,7 +17,7 @@ Highlight the name of your newly selected course.
 Click "Settings" to configure your course and integrate it with Blackboard.
 
 ![](images/access_settings.png)
-## General Tab
+### General Tab
 
 In the General Tab of the settings window, enter your **Instructor Remote ID**, which is found on the back of your blue remote.
 
@@ -25,19 +25,22 @@ Enter this number with care as you have the ability to start and stop polls, dis
 
 In most cases, you will be using **Frequency Code** AA. 
 
-You should turn off the frequency alert message as it will display every time you open the software. (NEED NEW PICTURE OF THE GENERAL SETTINGS WINDOW) Click the drop down menu under "**Show frequency alert message:**" and choose "Not at all."
+You may want to turn off the frequency alert message as it will display every time you open the software.  Click the drop down menu under "**Show frequency alert message:**" and choose "Not at all."
 
 On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
 
+(NEED NEW PICTURE OF THE GENERAL SETTINGS WINDOW)
 ![](images/General Settings.png)
 
-### Setting Up Your Gradebook
+### REEF Polling Tab
 
-i>clicker integrates with Blackboard, which makes it easy to download your roster and upload grades.
 
-Click on “Select Course” to start the connection process.
 
-In order to integrate with Blackboard, you will need to make your course available and configure i>clicker to talk with your Blackboard Course.
+### Gradebook Tab
+
+i>clicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be available so that i>clicker can make the connection. 
+
+Click on “**Select Course**” to start the connection process. (Note: If you don't see "Select Course," you might not have the integration software.)
 
 In your Blackboard course, go to the Course Tools in the Control Panel. Click on “i>clicker Instructor Tools”.
 
