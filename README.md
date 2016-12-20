@@ -1,12 +1,12 @@
-# i>clicker Quick Start Guide
+# i>clicker / REEF Quick Start Guide
 
-i>clicker is an in-class response system used to quickly and easily poll or quiz students during class. i>clicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, and more.
+i>clicker is an in-class response system used to quickly and easily poll or quiz students during class. i>clicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, and more. REEF is the web-based version which faculty may choose to enable as part of their classroom polling.
 
-The i>clicker Instructor kit consists of a base receiver, a blue Instructor remote, and i>clicker software. Each student should have their own white remote or, if enabled , a mobile device which is used to select responses during a polling session.
+The standard i>clicker instructor kit consists of a base receiver, a blue instructor remote, and i>clicker software. Each student should have their own white remote or, if enabled, a web-enabled device which is used to select responses during a polling session. (Smartphone and tablet users will need to download the REEF app from the appropriate store.)
 
 ## Software
 
-The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, which is located in Adams Humanities, Room 1109. We also provide appropriate language for your course syllabus and instructions for students.
+The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, Adams Humanities, Room 1109. We can provide appropriate language for your course syllabus and instructions for students.
 
 
 ## Instructor Kit
