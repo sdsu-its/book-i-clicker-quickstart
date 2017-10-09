@@ -2,7 +2,7 @@
 
 ## Create your Course
 
-1. Open the i&gt;clicker app from the i&gt;clicker folder on your flash drive.
+1. Open the iClicker app from the iClicker folder on your flash drive.
 2. Create a new course by clicking the '+Create' button.
 3. Type in a simple name that identifies the course. Only you will see this. Press "Create."
 
@@ -25,14 +25,13 @@ NOTE: You may want to turn off the frequency alert message as it will display ev
 
 NOTE: On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
 
-  
 ![](images/General Settings.png)
 
 ### REEF Polling Tab
 
 If you are going to allow web-based polling in your course, click the Reef Polling tab. If not, move on to Gradebook Tab.
 
-NOTE: You should not create a separate REEF account _outside_ of the i&gt;clicker settings. Use the i&gt;clicker software. Creating a separate REEF account on the REEF website will create a new, separate course that is not linked to your i&gt;clicker course and students will not be able to join a poll or quiz.
+NOTE: You should not create a separate REEF account _outside_ of the iClicker settings. Use the iClicker software. Creating a separate REEF account on the REEF website will create a new, separate course that is not linked to your iClicker course and students will not be able to join a poll or quiz.
 
 1. Click "**Enable REEF Polling**"
 2. Click "Create Account" if this is your first time enabling REEF in a course
@@ -44,15 +43,15 @@ NOTE: You should not create a separate REEF account _outside_ of the i&gt;clicke
 
 ![](/assets/Screen Shot 2016-12-19 at 4.57.31 PM.png)
 
-6. Fill in the **Course Name** - it's a good idea to add the semester and date/time if that could be important.
+1. Fill in the **Course Name** - it's a good idea to add the semester and date/time if that could be important.
 
-7. The **End Date** allows the course to no longer be visible after the End Date so that students won't see it next semester.
+2. The **End Date** allows the course to no longer be visible after the End Date so that students won't see it next semester.
 
-8. Most faculty "Do not allow" students to view screenshots. However, some like to allow students to see the screenshots so that students can use it as a study guide later.
+3. Most faculty "Do not allow" students to view screenshots. However, some like to allow students to see the screenshots so that students can use it as a study guide later.
 
-9. No need to fill out the Optional section. 
+4. No need to fill out the Optional section.
 
-10. Click "Create"
+5. Click "Create"
 
 You will have a chance to review and edit your settings before moving to the next tab.
 
@@ -60,16 +59,16 @@ NOTE: Students who use REEF must enter their REDID as their student ID in order 
 
 ### Gradebook Tab
 
-i&gt;clicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be "available " so that i&gt;clicker can make the connection. 
+iClicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be "available " so that i&gt;clicker can make the connection.
 
 Click on “**Select Course**” to start the connection process. A login window should appear
 
 NOTE: If you don't see "Select Course," you might not have the Blackboard integration software.
 
-You will need to get your SSO key from Blackboard in order to connect i&gt;clicker to Blackboard. The SSO can be found in any Blackboard course that you teach. 
+You will need to get your SSO key from Blackboard in order to connect iClicker to Blackboard. The SSO can be found in any Blackboard course that you teach.
 
 1. Go to Course Tools in the Control Panel. 
-2. Click on “i&gt;clicker Instructor Tools” at the bottom of the list. 
+2. Click on “iClicker Instructor Tools” at the bottom of the list. 
 3. Click "SSO Security Key" and copy the Security Key \(The CMS username is your REDID\). 
 4. Enter your REDID in LMS Username and the Security Key in the appropriate box.
 5. Click "Save my credentials ..." and then click "Log in"
@@ -78,13 +77,10 @@ You will need to get your SSO key from Blackboard in order to connect i&gt;click
 
 A drop down menu should appear. Click on your course and then click "Select."
 
-  
 ![](images/Courses.png)  
 ![](images/After BB Connect.png)
 
 Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the i&gt;clicker Gradebook later.
-
-
 
 ### Toolbar
 
@@ -102,14 +98,9 @@ Think of the Participation Points as “Attendance” and the Performance points
 
 Participation Points and Performance points can be uploaded to Blackboard as separate columns if desired or as a grand total.
 
-Many instructors are moving away from “Participation points”, favoring “Points for responding” instead to keep students engaged. 
+Many instructors are moving away from “Participation points”, favoring “Points for responding” instead to keep students engaged.
 
 ![](/images/Points.png)
 
 Save your settings before you exit. You are now ready to begin a polling session.
-
-
-
-  
-
 

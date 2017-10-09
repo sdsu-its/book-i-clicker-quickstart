@@ -1,17 +1,17 @@
-# i>clicker / REEF Quick Start Guide
+# iClicker / REEF Quick Start Guide
 
-i>clicker is an in-class response system used to quickly and easily poll or quiz students during class. i>clicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, and more. REEF is the web-based version which faculty may choose to enable as part of their classroom polling.
+iClicker is an in-class response system used to quickly and easily poll or quiz students during class. iClicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, and more. REEF is the web-based version which faculty may choose to enable as part of their classroom polling.
 
-The standard i>clicker instructor kit consists of a base receiver, a blue instructor remote, and i>clicker software. Each student should have their own white remote or, if enabled, a web-enabled device which is used to select responses during a polling session. (Smartphone and tablet users will need to download the REEF app from the appropriate store.)
+The standard iClicker instructor kit consists of a base receiver, a blue instructor remote, and iClicker software. Each student should have their own white remote or, if enabled, a web-enabled device which is used to select responses during a polling session. (Smartphone and tablet users will need to download the REEF app from the appropriate store.)
 
 ## Software
 
-The i>clicker software is packaged in a single folder which includes the i>clicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, Adams Humanities, Room 1109. We can provide appropriate language for your course syllabus and instructions for students.
+The iClicker software is packaged in a single folder which includes the iClicker app, as well as the Blackboard integration for use at San Diego State University. The latest version of the software can be obtained by visiting the FIT Center, Adams Humanities, Room 1109. We can provide appropriate language for your course syllabus and instructions for students.
 
 
 ## Instructor Kit
 
-Instructor kits are available free of charge for instructors at San Diego State University. To pick up your i>clicker kit at the ITS Faculty Instructional Technology Center (FIT Center), please call 619-594-6348, or [scheduled online](https://fitcenter.acuityscheduling.com/schedule.php?appointmentType=1226211) to set up your appointment for training and to pick up your Instructor Kit. Training is hands-on and takes about 45 minutes.
+Instructor kits are available free of charge for instructors at San Diego State University. To pick up your iClicker kit at the ITS Faculty Instructional Technology Center (FIT Center), please call 619-594-6348, or [scheduled online](https://fitcenter.acuityscheduling.com/schedule.php?appointmentType=1226211) to set up your appointment for training and to pick up your Instructor Kit. Training is hands-on and takes about 45 minutes.
 
 Your Instructor Kit will contain:
 
