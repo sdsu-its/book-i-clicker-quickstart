@@ -1,40 +1,36 @@
 # Initial Set Up
 
-## Create your Course
+### Create your Course
 
 1. Open the iClicker app from the iClicker folder on your flash drive.
 2. Create a new course by clicking the '+Create' button.
-3. Type in a simple name that identifies the course. Only you will see this. Press "Create."
+3. Type in a simple name that identifies your course. \(Only you will see this.\) 
+4. Press "Create".![](images/create_course.png)
 
-![](images/create_course.png)
+### Settings
 
-## Settings
-
-Highlight the name of your newly selected course.
-
-Click "Settings" to configure your course and integrate it with Blackboard.
-
-![](images/access_settings.png)
+1. Highlight the name of your newly selected course.
+2. Click "Settings" to configure your course and integrate it with Blackboard.![](images/access_settings.png)
 
 ### General Tab
 
-1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. \(Enter this number carefully as this used to start and stop polls, display polling results, and set a correct answer.\)
+1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. \(Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.\)
 2. In most cases, you will be using **Frequency Code** AA
 
-NOTE: You may want to turn off the frequency alert message as it will display every time you open the software.  Click the drop down menu under "**Show frequency alert message:**" and choose "Not at all."
+You may want to turn off the frequency alert message as it will display every time you open the software.  Click the drop down menu under "**Show frequency alert message**" and choose "Not at all".
 
-NOTE: On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
+On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
 
 ![](images/General Settings.png)
 
-### REEF Polling Tab
+### Reef Polling Tab
 
 If you are going to allow web-based polling in your course, click the Reef Polling tab. If not, move on to Gradebook Tab.
 
-NOTE: You should not create a separate REEF account _outside_ of the iClicker settings. Use the iClicker software. Creating a separate REEF account on the REEF website will create a new, separate course that is not linked to your iClicker course and students will not be able to join a poll or quiz.
+You should not create a separate Reef account _outside_ of the iClicker settings. Use the iClicker software. Creating a separate Reef account on the Reef website will create a new, separate course that is not linked to your iClicker course and students will not be able to join a poll or quiz.
 
-1. Click "**Enable REEF Polling**"
-2. Click "Create Account" if this is your first time enabling REEF in a course
+1. Click "**Enable Reef Polling**"
+2. Click "Create Account" if this is your first time enabling Reef in a course
 3. Fill in the required fields
 4. Click "I agree to the Privacy Policy and Terms of Use"
 5. Click "Create"
@@ -55,22 +51,22 @@ NOTE: You should not create a separate REEF account _outside_ of the iClicker se
 
 You will have a chance to review and edit your settings before moving to the next tab.
 
-NOTE: Students who use REEF must enter their REDID as their student ID in order to be recognized by Blackboard.
+Students who use Reef MUST enter their RedID as their student ID in order to be recognized by Blackboard.
 
 ### Gradebook Tab
 
 iClicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be "available " so that iClicker can make the connection.
 
-Click on “**Select Course**” to start the connection process. A login window should appear
+Click on “**Select Course**” to start the connection process. A login window should appear.
 
-NOTE: If you don't see "Select Course," you might not have the Blackboard integration software.
+If you don't see "Select Course," you might not have the Blackboard integration software.
 
 You will need to get your SSO key from Blackboard in order to connect iClicker to Blackboard. The SSO can be found in any Blackboard course that you teach.
 
 1. Go to Course Tools in the Control Panel. 
 2. Click on “iClicker Instructor Tools” at the bottom of the list. 
-3. Click "SSO Security Key" and copy the Security Key \(The CMS username is your REDID\). 
-4. Enter your REDID in LMS Username and the Security Key in the appropriate box.
+3. Click "SSO Security Key" and copy the Security Key \(The CMS username is your RedID\). 
+4. Enter your RedID in LMS Username and the Security Key in the appropriate box.
 5. Click "Save my credentials ..." and then click "Log in"
 
 ![](/assets/Screen Shot 2016-12-19 at 5.21.14 PM.png)

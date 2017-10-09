@@ -8,7 +8,7 @@ The standard iClicker instructor kit consists of a base receiver, a blue instruc
 
 ### Software
 
-The iClicker software is located in a single folder which includes the iClicker app, as well as the SDSU Blackboard Integration. The latest version of the software can be obtained by visiting the FIT Center located in Adams Humanities (Room 1109). We can help provide documentation for your course syllabus and student instructions.
+The iClicker software is located in a single folder which includes the iClicker app, as well as the SDSU Blackboard integration software. The latest version of the software can be obtained by visiting the FIT Center located in Adams Humanities (Room 1109). We can help provide documentation for your course syllabus and student instructions.
 
 
 ### Instructor Kit
