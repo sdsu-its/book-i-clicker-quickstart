@@ -76,7 +76,7 @@ A drop down menu should appear. Click on your course and then click "Select".
 ![](images/Courses.png)  
 ![](images/After BB Connect.png)
 
-Once you select your course, you will be notified that your roster will not appear until you sync with your LMS. This message can be safely ignored, as you will sync your roster using the iClicker Grade Book later.
+Once you select your course, you will be notified that your roster will not appear until you sync with your LMS. This message can be safely ignored, as you will sync your roster using the iClicker Gradebook later.
 
 ### Toolbar
 
