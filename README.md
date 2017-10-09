@@ -4,7 +4,7 @@ iClicker is an in-class response system used to quickly and easily poll or quiz 
 
 ### Instructor Kit
 
-The standard iClicker instructor kit consists of a base receiver, a blue instructor remote, and iClicker software on a flash drive. Each student should have their own white student remote or a web-enabled device which can be used to select responses during a polling session. (Web-enabled device users will need to download the "iClicker Reef" application.)
+The standard iClicker instructor kit consists of a base receiver, a blue instructor remote, and a flash drive with iClicker software. Each student should have their own white student remote or a web-enabled device which can be used to select responses during a polling session. (Web-enabled device users will need to download the "iClicker Reef" application.)
 
 ### Software
 
