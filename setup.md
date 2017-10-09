@@ -71,12 +71,12 @@ You will need to get your SSO key from Blackboard in order to connect iClicker t
 
 ![](/assets/Screen Shot 2016-12-19 at 5.21.14 PM.png)
 
-A drop down menu should appear. Click on your course and then click "Select."
+A drop down menu should appear. Click on your course and then click "Select".
 
 ![](images/Courses.png)  
 ![](images/After BB Connect.png)
 
-Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the iClicker Gradebook later.
+Once you select your course, you will be notified that your roster will not appear until you sync with your LMS. This message can be safely ignored, as you will sync your roster using the iClicker Grade Book later.
 
 ### Toolbar
 
@@ -90,7 +90,7 @@ You can enter the desired poll duration in the box using the dropdown menu.
 
 ### Scoring
 
-Think of the Participation Points as “Attendance” and the Performance points as “Quiz Points."
+Think of the Participation Points as “Attendance” and the Performance points as “Quiz Points".
 
 Participation Points and Performance points can be uploaded to Blackboard as separate columns if desired or as a grand total.
 
