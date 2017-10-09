@@ -59,7 +59,7 @@ NOTE: Students who use REEF must enter their REDID as their student ID in order 
 
 ### Gradebook Tab
 
-iClicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be "available " so that i&gt;clicker can make the connection.
+iClicker integrates with Blackboard making it easy to download your roster and upload grades. Your course must be "available " so that iClicker can make the connection.
 
 Click on “**Select Course**” to start the connection process. A login window should appear
 
@@ -80,11 +80,11 @@ A drop down menu should appear. Click on your course and then click "Select."
 ![](images/Courses.png)  
 ![](images/After BB Connect.png)
 
-Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the i&gt;clicker Gradebook later.
+Once you select your course, you will be notified that your roster will not appear until you sync with your LMS; this message can be safely ignored, as you will sync your roster using the iClicker Gradebook later.
 
 ### Toolbar
 
-While you are polling your students, i&gt;clicker will display a small Toolbar on your screen with pertinent information for both you and your students.
+While you are polling your students, iClicker will display a small Toolbar on your screen with pertinent information for both you and your students.
 
 The most important option is the Timer. By default, polls only close when you close them. Many users choose to have a “Count Down” timer which closes the poll automatically when the time elapses. This eliminate having to tell students when the poll will close.
 
