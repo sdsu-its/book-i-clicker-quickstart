@@ -17,7 +17,7 @@ iClicker Instructor kits are available free of charge for instructors at San Die
 
 Your Instructor Kit will contain:
 
-| ![](images/baseOn.jpg) | ![](images/iclicker-base-2.png) | ![](images/clicker_USB.jpg)|
+| ![](images/iClicker Base.png) | ![](images/Instructor Remote.png) | ![](images/Flash Drive.png)|
 | -- | -- | -- |
 | Base Receiver | Instructor Remote | Flash Drive |
 
