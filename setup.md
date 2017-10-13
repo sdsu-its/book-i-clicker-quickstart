@@ -1,29 +1,46 @@
 # Initial Set Up
 
-### Create your Course
+### Register
 
 1. Open the iClicker app from the iClicker folder on your flash drive.
-2. Create a new course by clicking the '+Create' button.
-3. Type in a simple name that identifies your course. \(Only you will see this.\) 
-4. Press "Create".![](images/create_course.png)
+2. Enter your name and email.
+3. Type "San Diego State University" in the Primary Institution Field.
+3. Select "Register".
 
-### Settings
+![](images/Register.png)
 
-1. Highlight the name of your newly selected course.
-2. Click "Settings" to configure your course and integrate it with Blackboard.![](images/access_settings.png)
+### Create your Course
+
+1. Create a new course by clicking the '+Create' button.
+2. Type in the name of your course (eg. PSYCH 101)
+3. Select "Create".
+
+![](images/Create Course.png)
+
+# Settings
+
+1. Highlight the name of your course.
+2. Select "Settings".
 
 ### General Tab
 
 1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. \(Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.\)
 2. In most cases, you will be using **Frequency Code** AA
 
-You may want to turn off the frequency alert message as it will display every time you open the software.  Click the drop down menu under "**Show frequency alert message**" and choose "Not at all".
+> **[info] Tips**
+>
+> You may want to turn off the frequency alert message as it will display
+> every time you open the software. Select the drop down menu located 
+> beneath "**Show frequency alert message**" and choose `not at all`.
+>
+> If you are using a Mac, you may want to click on **Prevent App Nap** 
+> to prevent your software from "sleeping" between questions.
 
-On Mac software, you should also click on **Prevent App Nap** to prevent your software from "sleeping" between questions.
+![](images/General Tab.png)
 
-![](images/General Settings.png)
+The Registration Tab does not require any alterations. 
 
-### Reef Polling Tab
+### Mobile Tab
 
 If you are going to allow web-based polling in your course, click the Reef Polling tab. If not, move on to Gradebook Tab.
 
