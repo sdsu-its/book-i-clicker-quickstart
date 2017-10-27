@@ -19,25 +19,26 @@ Once you start the poll, the timer will begin to count. It will count up or down
 
 ![](images/Stop Poll.png) 
 
-If your poll is counts up, you may click the red square on the toolbar to end your poll, or press the `A` button on your instructor remote.
+If your poll is counts up, you may click the red square on the toolbar to end your poll, or press `A` on your instructor remote.
 
 ### Showing Responses in Class
 
-You can display the results from your poll in class after you close the poll. Click on the Bar Graph button in the toolbar or press `B` on your instructor remote to display the Results Chart. The Results Chart displays a breakdown of how your students voted during your poll.
+You can display the results from your poll in class after you close the poll. Click on the Bar Graph button in the toolbar or press `B` on your instructor remote to display the **Results Chart**. The Results Chart displays a breakdown of how your students voted during your poll.
 
 ![](images/Poll Results.png)
 
 You can change the question by clicking the Question Menu, or you can use the forward and back arrows in the top left corner. You can also compare results, simply click the compare button and another Results Chart will appear.
 
-![](images/View Results.png)
+![](images/Compare Results.png)
 
-Pressing `B` will close all the open Results Charts.
+Pressing `B` on your instructor remote will close all the open Results Charts.
 
 ### Designating Correct Answers in Class
 
-While you have a Results Chart open, you can press the `Answer` button, or press `E` on your Instructor Remote to step through the answer choices.
+While you have a Results Chart open, you can press the `Answer` button, or press `E` on your instructor remote to step through the answer choices.
 
-The Selected Correct Answer will turn green and when you end the session, the student scores will reflect the correct answer selected in class.
+The selected correct answer will turn green and when you end the session, the student scores will reflect the correct answer selected in class.
 
-![](images/Graded View.png)
+![](images/Graded Poll.png)
 
+Once you have finished your session, click the `x` in the top left corner of the toolbar window, and you will be brought back to your home screen.

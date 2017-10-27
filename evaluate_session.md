@@ -1,17 +1,17 @@
 # Evaluating a Session
 
-Once you are ready to evaluate your session, go back into your gradebook and a new column will have appeared for the session that you completed.
+From your home screen, click `Open Gradebook`. A window will open where you will see a column representing performance and participation information for the sessions that you have completed.
 
-![](images/Roster before Grading.png)
+![](images/Grade Book.png)
 
 ## Grading Responses
 
-Click the `View` button at the top of the column to start processing your session.  
-iClicker takes a screenshot of your screen everytime you start a poll, this makes scoring easy!
+Click the `View` button at the top of a session column to start processing your session.  
+iClicker takes a screenshot of your screen every time you start a poll to make scoring easy!
 
-![](images/Select Correct Answer.png)
+![](images/View Session.png)
 
-Check the checkbox next to the correct answer for each question; the Correct Answer will turn green, and the wrong answers will turn red. You will need to do this for every question, if your scoring is based on correctness. If your scoring is based on participation/number of responses, it is not necessary to go through and mark correct answers.
+Click the checkbox next to the correct answer for each question. The correct answer will turn green, and the wrong answers will turn brown. You will need to do this for every question, if your scoring is based on correctness. If your scoring is based on participation/number of responses, it is not necessary to go through and mark correct answers.
 
 ## Session Summary
 
