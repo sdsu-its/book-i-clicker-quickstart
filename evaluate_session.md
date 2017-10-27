@@ -1,4 +1,4 @@
-# Evaluating A Session
+# Evaluating a Session
 
 Once you are ready to evaluate your session, go back into your gradebook and a new column will have appeared for the session that you completed.
 

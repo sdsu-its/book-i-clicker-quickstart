@@ -1,4 +1,4 @@
-# Initial Set Up
+# Initial Setup
 
 ### Register
 
@@ -24,7 +24,7 @@
 
 ### General Tab
 
-1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote.(Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.)
+1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.
 2. In most cases, you will be using **Frequency Code** AA
 
 > **[info] Tips**
