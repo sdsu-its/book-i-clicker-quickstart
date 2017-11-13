@@ -27,14 +27,14 @@
 1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.
 2. In most cases, you will be using **Frequency Code** AA
   
-> ##### **[info] Tips**
+> **[info] Tips**
 >
-> ##### You may want to turn off the frequency alert message as it will display
-> ##### every time you open the software. Click the drop down menu located 
-> ##### beneath **Show frequency alert message** and choose `not at all`.
+> You may want to turn off the frequency alert message as it will display
+> every time you open the software. Click the drop down menu located 
+> beneath **Show frequency alert message** and choose `not at all`.
 >
-> ##### If you are using a Mac, you may want to check the box next to **Prevent** 
-> ##### **App Nap** to prevent your software from "sleeping" between questions.
+> If you are using a Mac, you may want to check the box next to **Prevent** 
+> **App Nap** to prevent your software from "sleeping" between questions.
 
 ![](images/General Tab.png)
 
@@ -47,6 +47,7 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 ### Mobile Tab
 
 > **[warning] Attention**
+>
 > You should **NOT** create a separate **iClicker Reef** account outside of the
 > iClicker application. Creating a separate iClicker Reef account on the 
 > iClicker Reef website will create a new, separate course that is not linked 
@@ -71,6 +72,7 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 ![](/images/Course Details.png)
 
 > **[warning] Important**
+>
 > Students who use iClicker Reef **MUST** enter their RedID 
 > as their student ID in order to be recognized by Blackboard.
 
@@ -81,6 +83,7 @@ iClicker integrates with **Blackboard** making it easy to download your roster a
 1. Click `Select Course` to start the connection process. A login window should appear.
 
 > **[info] Tip**
+>
 > If you don't see `Select Course`, you might not 
 > have the Blackboard integration software installed.
 
