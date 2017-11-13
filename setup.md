@@ -27,6 +27,7 @@
 1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.
 2. In most cases, you will be using **Frequency Code** AA
 
+>    
 > **[info] Tips**
 >
 > You may want to turn off the frequency alert message as it will display
@@ -35,6 +36,7 @@
 >
 > If you are using a Mac, you may want to check the box next to **Prevent** 
 > **App Nap** to prevent your software from "sleeping" between questions.
+>    
 
 ![](images/General Tab.png)
 
