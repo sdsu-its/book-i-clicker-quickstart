@@ -52,6 +52,11 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 > iClicker application. Creating a separate iClicker Reef account on the 
 > iClicker Reef website will create a new, separate course that is not linked 
 > to your iClicker course and students will not be able to join polls or quizzes.
+>
+> Students who use iClicker Reef **MUST** enter their RedID 
+> as their student ID in order to be recognized by Blackboard.
+
+
 
 1. Click `Enable`
 2. Fill in the required fields
@@ -71,18 +76,13 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 
 ![](/images/Course Details.png)
 
-> **[warning] Important**
->
-> Students who use iClicker Reef **MUST** enter their RedID 
-> as their student ID in order to be recognized by Blackboard.
-
 ### Gradebook Tab
 
 iClicker integrates with **Blackboard** making it easy to download your roster and upload grades. Your course must be "available" on BlackBoard so that iClicker can make the connection.
 
 1. Click `Select Course` to start the connection process. A login window should appear.
 
-> **[info] Tip**
+> **[warning] Attention**
 >
 > If you don't see `Select Course`, you might not 
 > have the Blackboard integration software installed.
