@@ -12,7 +12,7 @@
 ### Create your Course
 
 1. Create a new course by clicking the `+ Create` button.
-2. Type in the name of your course (eg. PSYCH 101).
+2. Type in the name of your course \(eg. PSYCH 101\).
 3. Click `Create`.
 
 ![](images/Create Course.png)
@@ -26,37 +26,37 @@
 
 1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.
 2. In most cases, you will be using **Frequency Code** AA
-  
-> **[info] Tips**
+
+> **\[info\] Tips**
 >
-> You may want to turn off the frequency alert message as it will display
-> every time you open the software. Click the drop down menu located 
+> You may want to turn off the frequency alert message as it will display  
+> every time you open the software. Click the drop down menu located  
 > beneath **Show frequency alert message** and choose `not at all`.
 >
-> If you are using a Mac, you may want to check the box next to **Prevent** 
+> If you are using a Mac, you may want to check the box next to **Prevent**  
 > **App Nap** to prevent your software from "sleeping" between questions.
 
 ![](images/General Tab.png)
 
-### Registration Tab
+**Frequency Conflict**: If you encounter a frequency conflict, you may need to change both your base receiver and your remote to a different frequency. You must also inform students of the new frequency so they can change their student remotes.
 
-The `Registration` tab does not require any alterations.
+To change the frequency on a remote, push and hold the orange power button until a two letter code flashes on the remote. Enter the new frequency code. If you select the correct frequency \(the same frequency as the base receiver\), you will see a checkmark.  It is important to change the frequency and save the settings in the software before changing the remote frequencies.
+
+
 
 If you are going to allow web-based polling in your course, click the `Mobile` tab. If not, move on to the `Gradebook` tab.
 
 ### Mobile Tab
 
-> **[warning] Attention**
+> **\[warning\] Attention**
 >
-> You should **NOT** create a separate **iClicker Reef** account outside of the
-> iClicker application. Creating a separate iClicker Reef account on the 
-> iClicker Reef website will create a new, separate course that is not linked 
+> You should **NOT** create a separate **iClicker Reef** account outside of the  
+> iClicker application. Creating a separate iClicker Reef account on the  
+> iClicker Reef website will create a new, separate course that is not linked  
 > to your iClicker course and students will not be able to join polls or quizzes.
 >
-> Students who use iClicker Reef **MUST** enter their RedID 
+> Students who use iClicker Reef **MUST** enter their RedID  
 > as their student ID in order to be recognized by Blackboard.
-
-
 
 1. Click `Enable`
 2. Fill in the required fields
@@ -66,7 +66,7 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 
 1. Enter "San Diego State University" in the **Institution** field, and select your **Course Discipline**.
 
-2. Fill in the **Course Name**. It's a good idea to add the semester, too. (eg. Psych 101 Spring 2018)
+2. Fill in the **Course Name**. It's a good idea to add the semester, too. \(eg. Psych 101 Spring 2018\)
 
 3. Fill in the **Start Date** and **End Date**. The end date ensures that the course will no longer be visible to students after the semester has ended.
 
@@ -78,32 +78,28 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 
 ### Gradebook Tab
 
-iClicker integrates with **Blackboard** making it easy to download your roster and upload grades. Your course must be "available" on BlackBoard so that iClicker can make the connection.
+iClicker integrates with **Blackboard** making it easy to download your roster and upload grades. Your course must be "available" on Blackboard so that iClicker can make the connection.
 
 1. Click `Select Course` to start the connection process. A login window should appear.
 
-> **[warning] Attention**
+> **\[warning\] Attention**
 >
-> If you don't see `Select Course`, you might not 
+> If you don't see `Select Course`, you might not  
 > have the Blackboard integration software installed.
 
 You will need to get your SSO key from Blackboard in order to connect iClicker to Blackboard. To retrieve your SSO key follow these steps:
 
 1. Go to `Course Tools` under the `Control Panel` of your BlackBoard course.
 2. Click on `iClicker Instructor Tools` at the bottom of the list. 
-3. Then click `SSO Security Key`. Here you will find both your **LMS Username** and **Security Key**. 
+3. Then click `SSO Security Key`. Here you will find both your** Username** and **Security Key**. 
 4. Enter both in the iClicker window accordingly.
 5. Check the box next to **Save my credentials ...** and then click `Log in`.
 
 ![](/images/Select Course.png)
 
-The next window will feature a list of your courses in BlackBoard. Highlight the course you are setting up and then click `Select`.
+The next window will feature a list of your courses in Blackboard. Highlight the course you are setting up and then click `Select`.
 
-Before moving on to the next tab, Double check that **BlackBoard Learn** is listed next to **LMS Name** and that your course name is listed next to **LMS Course**.
-
-### Roll Call Tab
-
-The `Roll Call` tab does not require any alterations.
+Before moving on to the next tab, Double check that **Blackboard Learn** is listed next to **LMS Name** and that your course name is listed next to **LMS Course**.
 
 ### Toolbar
 
@@ -111,7 +107,7 @@ While you are polling your students, iClicker will display a small Toolbar on yo
 
 The most important option is the **Polling Timer**. By default, polls will not end unless you manually stop the polling session. Most faculty choose to have a **Count Down** timer which closes the poll automatically when the specified time elapses. This option eliminates having to tell students when the poll will close.
 
-You can enter your desired poll duration in the box using the dropdown menu.
+You can enter your desired poll duration in the box using the dropdown menu. Poll duration can also be changed during an open polling session by using the up and down arrows in the toolbar.
 
 ![](images/Polling Timer.png)
 
@@ -119,19 +115,11 @@ You can enter your desired poll duration in the box using the dropdown menu.
 
 Think of the **Participation Points** as “Attendance” and the **Performance Points** as “Quiz Points".
 
-Participation Points and Performance Points can be uploaded to Blackboard as separate columns if desired or as a grand total.
+**Participation Points** and **Performance Points** can be uploaded to Blackboard as separate columns if desired, or they can be uploaded as a grand total.
 
-Most faculty choose not to use Participation Points, favoring **Points for Responding** instead to keep students engaged.
+Most faculty choose not to use **Participation Points**, favoring **Points for Responding** instead because it encourages students to stay engaged throughout the entire polling session.
 
 ![](/images/Scoring.png)
 
-### Results
-
-The `Results` tab does not require any alterations.
-
-### Base Display
-
-The `Base Display` tab does not require any alterations.
-
-Click `Save` int the bottom righthand side of your screen to save all tabs. You are now ready to begin a polling session.
+Finally, click `Save` in the bottom righthand side of your screen to save all tabs. You are now ready to begin a polling session.
 

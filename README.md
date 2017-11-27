@@ -1,6 +1,6 @@
 # iClicker Quick Start Guide
 
-iClicker is an in-class response system used to poll or quiz students during class. iClicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, increase class participation, and more. iClicker Reef is an application which faculty may choose to enable that allows students to select responses with a web-enabled device.
+iClicker is an in-class response system used to poll or quiz students during class. iClicker can be used to test comprehension, conduct before-and-after comparisons, gather opinions, increase class participation, and more. iClicker Reef is an application which faculty may choose to enable that allows students to select responses from a web-enabled device.
 ### Instructor Kit
 
 The iClicker instructor kit consists of a base receiver, a blue instructor remote and a flash drive with iClicker software. Each student should have their own white student remote or, if the professor has enabled iClicker Reef, a web-enabled device which can be used to select responses. (iClicker Reef users will need to download the "iClicker Reef" application.)

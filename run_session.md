@@ -4,18 +4,16 @@ Once you have connected your iClicker base to your computer, the `Start New Sess
 
 ![](images/Home Screen.png)
 
-We recommend that you start a new session before you start your PowerPoint Presentation, so that you do not have to switch back and forth between the 2 applications.
+We recommend that you start a new session before you start your  presentation, so that you do not have to switch back and forth between the 2 applications.
 
 If a frequency error appears, you will need to change the frequency of your base and remote. 
 The process of changing your frequency is explained in the [Setup](setup.md) section.
-  
-![](images/Frequency Conflict.png)
 
 Once you click `Start New Session`, a toolbar will appear. The toolbar provides you with a summary of your poll and allows you to start and stop the poll which you can also do using your instructor remote.
 
 ![](images/Start Poll.png)
 
-Once you start the poll, the timer will begin to count. It will count up or down, depending on how you configured your settings. On the far right, you can see how many students have participated in your poll.
+Once you start the poll, the timer will begin to count. It will count up or down, depending on how you configured your settings. You can adjust the amount of time remaining by clicking on the up and down arrows. On the far right, you can see how many students have participated in your poll.
 
 ![](images/Stop Poll.png) 
 
@@ -41,4 +39,6 @@ The selected correct answer will turn green and when you end the session, the st
 
 ![](images/Graded Poll.png)
 
-Once you have finished your session, click the `x` in the top left corner of the toolbar window, and you will be brought back to your home screen.
+You can press `B` on your instructor remote at any point in the session to hide the polling window.
+
+Once you have finished your session, click the `x` in the top left corner of the toolbar window and you will be brought back to your home screen.
