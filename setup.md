@@ -28,9 +28,9 @@
 2. In most cases, you will be using **Frequency Code** AA
 
 > **\[info\] Tips**
-> You may want to turn off the frequency alert message as it will display  
-> every time you open the software. Click the drop down menu located  
-> beneath **Show frequency alert message** and choose `not at all`.
+> You may want to turn off the frequency alert message as it 
+> will display every time you open the software. Click the drop down menu 
+> located beneath **Show frequency alert message** and choose `not at all`.
 >
 > If you are using a Mac, you may want to check the box next to **Prevent**  
 > **App Nap** to prevent your software from "sleeping" between questions.
@@ -48,9 +48,9 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 ### Mobile Tab
 
 > **\[warning\] Attention**
-> You should **NOT** create a separate **iClicker Reef** account outside of the  
-> iClicker application. Creating a separate iClicker Reef account on the  
-> iClicker Reef website will create a new, separate course that is not linked  
+> You should **NOT** create a separate **iClicker Reef** account 
+> outside of the iClicker application. Creating a separate iClicker Reef account 
+> on the iClicker Reef website will create a new, separate course that is not linked 
 > to your iClicker course and students will not be able to join polls or quizzes.
 >
 > Students who use iClicker Reef **MUST** enter their RedID  
@@ -81,8 +81,8 @@ iClicker integrates with **Blackboard** making it easy to download your roster a
 1. Click `Select Course` to start the connection process. A login window should appear.
 
 > **\[warning\] Attention**
-> If you don't see `Select Course`, you might not  
-> have the Blackboard integration software installed.
+> If you don't see `Select Course`, you might 
+> not have the Blackboard integration software installed.
 
 You will need to get your SSO key from Blackboard in order to connect iClicker to Blackboard. To retrieve your SSO key follow these steps:
 
