@@ -1,4 +1,6 @@
-# Initial Setup
+# Setup
+
+## Initial Setup
 
 ### Register
 
@@ -7,7 +9,7 @@
 3. Type "San Diego State University" in the **Primary Institution** Field.
 4. Click `Register`.
 
-![](images/Register.png)
+![](.gitbook/assets/register.png)
 
 ### Create your Course
 
@@ -15,9 +17,9 @@
 2. Type in the name of your course \(eg. PSYCH 101\).
 3. Click `Create`.
 
-![](images/Create Course.png)
+![](.gitbook/assets/create-course.png)
 
-# Settings
+## Settings
 
 1. Highlight the name of your course.
 2. Click `Settings`.
@@ -27,31 +29,22 @@
 1. Enter your **Instructor Remote ID**, which is found on the back of your blue remote. Enter this number carefully as this is used to start and stop polls, display polling results, and set a correct answer.
 2. In most cases, you will be using **Frequency Code** AA
 
-> **\[info\] Tips**
-> You may want to turn off the frequency alert message as it 
-> will display every time you open the software. Click the drop down menu 
-> located beneath **Show frequency alert message** and choose `not at all`.
+> **\[info\] Tips** You may want to turn off the frequency alert message as it will display every time you open the software. Click the drop down menu located beneath **Show frequency alert message** and choose `not at all`.
 >
 > If you are using a Mac, you may want to check the box next to **Prevent**  
 > **App Nap** to prevent your software from "sleeping" between questions.
 
-![](images/General Tab.png)
+![](.gitbook/assets/general-tab.png)
 
 **Frequency Conflict**: If you encounter a frequency conflict, you may need to change both your base receiver and your remote to a different frequency. You must also inform students of the new frequency so they can change their student remotes.
 
-To change the frequency on a remote, push and hold the orange power button until a two letter code flashes on the remote. Enter the new frequency code. If you select the correct frequency \(the same frequency as the base receiver\), you will see a checkmark.  It is important to change the frequency and save the settings in the software before changing the remote frequencies.
-
-
+To change the frequency on a remote, push and hold the orange power button until a two letter code flashes on the remote. Enter the new frequency code. If you select the correct frequency \(the same frequency as the base receiver\), you will see a checkmark. It is important to change the frequency and save the settings in the software before changing the remote frequencies.
 
 If you are going to allow web-based polling in your course, click the `Mobile` tab. If not, move on to the `Gradebook` tab.
 
 ### Mobile Tab
 
-> **\[warning\] Attention**
-> You should **NOT** create a separate **iClicker Reef** account 
-> outside of the iClicker application. Creating a separate iClicker Reef account 
-> on the iClicker Reef website will create a new, separate course that is not linked 
-> to your iClicker course and students will not be able to join polls or quizzes.
+> **\[warning\] Attention** You should **NOT** create a separate **iClicker Reef** account outside of the iClicker application. Creating a separate iClicker Reef account on the iClicker Reef website will create a new, separate course that is not linked to your iClicker course and students will not be able to join polls or quizzes.
 >
 > Students who use iClicker Reef **MUST** enter their RedID  
 > as their student ID in order to be recognized by Blackboard.
@@ -60,19 +53,15 @@ If you are going to allow web-based polling in your course, click the `Mobile` t
 2. Fill in the required fields
 3. Click `Sign In`
 
-![](/images/Mobile Tab.png)
+![](.gitbook/assets/mobile-tab.png)
 
 1. Enter "San Diego State University" in the **Institution** field, and select your **Course Discipline**.
-
 2. Fill in the **Course Name**. It's a good idea to add the semester, too. \(eg. Psych 101 Spring 2018\)
-
 3. Fill in the **Start Date** and **End Date**. The end date ensures that the course will no longer be visible to students after the semester has ended.
-
 4. Choose your **Screenshots** preference. Some faculty choose to allow students to see screenshots for studying purposes. Most faculty choose "Do not allow."
-
 5. Click `Create`
 
-![](/images/Course Details.png)
+![](.gitbook/assets/course-details.png)
 
 ### Gradebook Tab
 
@@ -80,9 +69,7 @@ iClicker integrates with **Blackboard** making it easy to download your roster a
 
 1. Click `Select Course` to start the connection process. A login window should appear.
 
-> **\[warning\] Attention**
-> If you don't see `Select Course`, you might 
-> not have the Blackboard integration software installed.
+> **\[warning\] Attention** If you don't see `Select Course`, you might not have the Blackboard integration software installed.
 
 You will need to get your SSO key from Blackboard in order to connect iClicker to Blackboard. To retrieve your SSO key follow these steps:
 
@@ -92,7 +79,7 @@ You will need to get your SSO key from Blackboard in order to connect iClicker t
 4. Enter both in the iClicker window accordingly.
 5. Check the box next to **Save my credentials ...** and then click `Log in`.
 
-![](/images/Select Course.png)
+![](.gitbook/assets/select-course.png)
 
 The next window will feature a list of your courses in Blackboard. Highlight the course you are setting up and then click `Select`.
 
@@ -106,7 +93,7 @@ The most important option is the **Polling Timer**. By default, polls will not e
 
 You can enter your desired poll duration in the box using the dropdown menu. Poll duration can also be changed during an open polling session by using the up and down arrows in the toolbar.
 
-![](images/Polling Timer.png)
+![](.gitbook/assets/polling-timer.png)
 
 ### Scoring
 
@@ -116,7 +103,7 @@ Think of the **Participation Points** as “Attendance” and the **Performance 
 
 Most faculty choose not to use **Participation Points**, favoring **Points for Responding** instead because it encourages students to stay engaged throughout the entire polling session.
 
-![](/images/Scoring.png)
+![](.gitbook/assets/scoring.png)
 
 Finally, click `Save` in the bottom righthand side of your screen to save all tabs. You are now ready to begin a polling session.
 

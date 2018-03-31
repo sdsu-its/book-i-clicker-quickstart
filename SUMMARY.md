@@ -1,11 +1,11 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Setup](setup.md)
 * [Gradebook](gradebook.md)
-* [Sessions](sessions.md)
-  * [Running a Session](run_session.md)
-  * [Evaluating a Session](evaluate_session.md)
-  * [Uploading Scores](upload_scores.md)
-* [Troubleshooting Tips](troubleshooting_tips.md)
+* [Sessions](sessions/README.md)
+  * [Running a Session](sessions/running-a-session.md)
+  * [Evaluating a Session](sessions/evaluating-a-session.md)
+  * [Uploading Scores](sessions/uploading-scores.md)
+* Troubleshooting Tips
 
